@@ -1,0 +1,22 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 700px;
+    margin: auto;
+
+  }
+
+body {
+      min-width: 500px;
+      background-color: #e0eeee;
+  }
+
+.profileBody {
+    display: inline-block;
+    background:linear-gradient(to bottom left, orange,white, green);
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 590px;
+    padding-left: 20px;
+    padding-top: 30px;
+  }
